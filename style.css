@@ -83,6 +83,9 @@ section h1 {
     height: 10vw;
     margin: 0 4em 4em 4em;
 }
+.section_item:hover{
+    transform: scale(1.05);
+}
 
 .section_item img {
     height: 100%;
